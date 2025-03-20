@@ -1,1 +1,1 @@
-# test_git_1
+# Repositório para códigos gerados em exercícios de estudos.
